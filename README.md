@@ -61,6 +61,8 @@ http://localhost:8000
 Launch the app using the command above
 Upload a brain MRI scan (grayscale or RGB, .jpg/.png/.bmp)
 Click Analyze — the model runs inference on your image
+
+
 View Results:
 Left panel: original MRI
 Middle panel: predicted segmentation mask
